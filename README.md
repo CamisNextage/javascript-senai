@@ -1,2 +1,2 @@
 # javascript-senai
-somete projetos java
+somente projetos java
